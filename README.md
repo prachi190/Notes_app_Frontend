@@ -14,6 +14,31 @@
 3. Install dependencies: `npm install`
 4. Run the development server: `npm start`
 
+
+## Deployment on Vercel
+Our frontend can be easily deployed on Vercel. Follow these steps to set up the deployment:
+
+1. **Visit Vercel:**
+   - Go to [Vercel website](https://vercel.com/) and sign in or create a new account.
+
+2. **Create a New Project:**
+   - Once logged in, import your GitHub repository to create a new Vercel project.
+
+3. **Configure Settings:**
+   - Choose the appropriate settings for your project, including the framework preset for React.
+
+4. **Environment Variables:**
+   - Set up any necessary environment variables in the Vercel dashboard.
+
+5. **Deploy Frontend:**
+   - Trigger the deployment process on Vercel, and Vercel will provide you with a unique URL for your deployed frontend.
+
+6. **Access Deployed Frontend:**
+   - Visit the provided URL to access your deployed frontend.
+
+### Notes
+- Ensure that you have the necessary configurations in your Vercel project, such as environment variables or custom settings.
+
 ## Usage
 
 Welcome to our Notes App! This application allows you to manage your notes effortlessly. Follow these steps to get started:
